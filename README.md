@@ -26,3 +26,6 @@ Cria o esquema conceitual para o contexto de oficina com base na narrativa forne
 
 ## Resposta ao desafio 
 ![Oficina Mecânica](https://github.com/user-attachments/assets/f9a6b67e-3907-4706-8504-891f917fa66b)
+
+## Certificado
+![PGPIOV6J_page-0001](https://github.com/user-attachments/assets/b5533d4f-d6c7-4a94-b5e2-f933f1523620)
